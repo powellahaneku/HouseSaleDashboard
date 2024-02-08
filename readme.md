@@ -1,5 +1,6 @@
 # King County House Sale Dashboard - Project Overview
 
+[See Project](https://public.tableau.com/app/profile/powell.ahaneku/viz/KingsCountyHouseSales_17073741715870/KingCountyHouseSales?publish=yes)
 ## Introduction
 The King County House Sale Dashboard is a data visualization project created using Tableau. It offers a comprehensive analysis of house sales data in King County, Washington, providing valuable insights into housing trends for potential buyers, sellers, and real estate professionals.
 
